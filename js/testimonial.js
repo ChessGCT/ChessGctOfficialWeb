@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2023": [
             {
                 name: "Chinnasamy",
-                dept: "Civil",
+                dept: "IT",
                 quote: "Chess GCT has helped me grow as a person and a player.",
                 role: "Men's Captain",
                 year: "2024",
@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             {
                 name: "Narmatha",
-                dept: "CSE",
+                dept: "IT",
                 quote: "Chess GCT has helped me grow as a person and a player.",
                 role: "Women's Captain",
                 year: "2024",
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 dept: "Civil",
                 quote: "Chess GCT has helped me grow as a person and a player.",
                 role: "Member",
-                year: "2025",
+                year: "2024",
                 image: "assets/images/testimonials/2023/member1.webp"
             },
         ]
