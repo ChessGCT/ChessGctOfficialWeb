@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 quote: "Chess GCT has helped me grow as a person and a player.",
                 role: "Member",
                 year: "2025",
-                image: "assets/images/testimonials/2023/member1.webp"
+                image: "assets/images/testimonials/2025/soundarya.webp"
             },
             {
                 name: "Surya B",

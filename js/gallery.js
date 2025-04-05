@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Define image ranges for each year
     const imagesByYear = {
         "2025": Array.from({ length: 13 }, (_, i) => `photo${i + 1}.jpg`), // photo1.jpg to photo13.jpg
-        "2024": Array.from({ length: 47 }, (_, i) => `photo${i + 1}.jpg`), // photo1.jpg to photo47.jpg
+        "2024": Array.from({ length: 50 }, (_, i) => `photo${i + 1}.jpg`), // photo1.jpg to photo50.jpg
         "2023": Array.from({ length: 10 }, (_, i) => `photo${i + 1}.jpg`)  // photo1.jpg to photo10.jpg
     };
 
